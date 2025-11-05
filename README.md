@@ -1,0 +1,1 @@
+Run envInit.ps1 to set up the environment variable for GITHUB_TOKEN stored in .env (create file if you don't have it).
